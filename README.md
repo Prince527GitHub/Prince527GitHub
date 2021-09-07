@@ -1,6 +1,10 @@
-# Prince527Github [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prince527Github&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+# Prince527Github 
 
-## ServerSMP [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Prince527Github&repo=ServerSMP&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prince527Github&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prince527GitHub&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+## ServerSMP 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Prince527Github&repo=ServerSMP&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 **Discord bots**
  - `ServerSMP - MusicBot` [link](https://discord.com/oauth2/authorize?client_id=791051138459762729&permissions=53857345&scope=bot)
@@ -14,7 +18,9 @@
  - `Wiki` [link](https://github.com/Prince527GitHub/ServerSMP/wiki)
  - `Website` [link](https://serversmp.arpismp.ml/)
 
-## DuckDungeon [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Prince527Github&repo=Duck-Dungeon&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+## DuckDungeon 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Prince527Github&repo=Duck-Dungeon&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 Duck Dungeon Reboot, or DDR for short, is a game where you play as a duck. An evil goose has stolen your bread, and you must bring it back. You will face many obstacles in your quest to bring back the holy bread.
 
