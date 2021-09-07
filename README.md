@@ -2,7 +2,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prince527Github&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prince527GitHub&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## ServerSMP 
+## [ServerSMP](https://github.com/Prince527GitHub/ServerSMP)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Prince527Github&repo=ServerSMP&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -18,7 +18,7 @@
  - `Wiki` [link](https://github.com/Prince527GitHub/ServerSMP/wiki)
  - `Website` [link](https://serversmp.arpismp.ml/)
 
-## DuckDungeon 
+## [DuckDungeon](https://github.com/Prince527GitHub/Duck-Dungeon/) 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Prince527Github&repo=Duck-Dungeon&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
