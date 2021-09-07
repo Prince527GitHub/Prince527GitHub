@@ -1,16 +1,28 @@
-### Hi there 👋
+# Prince527Github [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prince527Github&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-**Prince527GitHub/Prince527GitHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ServerSMP [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Prince527Github&repo=ServerSMP&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
+**Discord bots**
+ - `ServerSMP - MusicBot` [link](https://discord.com/oauth2/authorize?client_id=791051138459762729&permissions=53857345&scope=bot)
+ - `ServerSMP - BOT (v13)` [link](https://github.com/Prince527GitHub/ServerSMP/tree/ServerSMP-BOT-(v13))
+ - `ServerSMP - BOT (v12)` [link](https://github.com/Prince527GitHub/ServerSMP/tree/ServerSMP-BOT-(v12))
+ - `ServerSMP - BOT (Python)` [link](https://github.com/Prince527GitHub/ServerSMP/tree/ServerSMP-BOT-(Python))
+ - `Totaly Not ServerSMP's Help Bot (T.N.S.H.B)` [link](https://github.com/Prince527GitHub/ServerSMP/tree/T%C2%B7N%C2%B7S%C2%B7H%C2%B7B)
+ - `"go pico" (self bot)` [link](https://github.com/Prince527GitHub/ServerSMP/tree/%22go-pico%22)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Other**
+ - `Wiki` [link](https://github.com/Prince527GitHub/ServerSMP/wiki)
+ - `Website` [link](https://serversmp.arpismp.ml/)
+
+## DuckDungeon [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Prince527Github&repo=Duck-Dungeon&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+Duck Dungeon Reboot, or DDR for short, is a game where you play as a duck. An evil goose has stolen your bread, and you must bring it back. You will face many obstacles in your quest to bring back the holy bread.
+
+### Credits
+
+![credit](https://prince527.reeee.ee/59k1Rg9hk.png)
+
+### Links
+
+- Github [link](https://github.com/Prince527GitHub/Duck-Dungeon/)
+- Website [link](https://duckdevs.me/)
