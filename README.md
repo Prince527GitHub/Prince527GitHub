@@ -26,13 +26,13 @@ Duck Dungeon Reboot, or DDR for short, is a game where you play as a duck. An ev
 
 ### Credits
 
-<h6><img style="image-rendering: auto;" src="https://github.com/Prince527GitHub/Duck-Dungeon/blob/web/assets/images/arpi.png?raw=true" alt="credit-DiamondGolurk" class="media-image"></img> DiamondGolurk `Programming` `Game Design`</h6>
+<h6><img style="image-rendering: auto;	height: 25px; width: 25px;" src="https://github.com/Prince527GitHub/Duck-Dungeon/blob/web/assets/images/arpi.png?raw=true" alt="credit-DiamondGolurk"></img> DiamondGolurk `Programming` `Game Design`</h6>
 
-<h6><img style="image-rendering: auto;" src="https://github.com/Prince527GitHub/Duck-Dungeon/blob/web/assets/images/txtur.gif?raw=true" alt="credit-Txtur" class="media-image"></img> txtur `Textures` `Game Design`</h6>
+<h6><img style="image-rendering: auto;	height: 25px; width: 25px;" src="https://github.com/Prince527GitHub/Duck-Dungeon/blob/web/assets/images/txtur.gif?raw=true" alt="credit-Txtur"></img> txtur `Textures` `Game Design`</h6>
 
-<h6><img style="image-rendering: auto;" src="https://github.com/Prince527GitHub/Duck-Dungeon/blob/web/assets/images/tRoboticGamer.png?raw=true" alt="credit-tRoboticGamer" class="media-image"></img> tRoboticGamer `Sound Design` `Tilemap`</h6>
+<h6><img style="image-rendering: auto;	height: 25px; width: 25px;" src="https://github.com/Prince527GitHub/Duck-Dungeon/blob/web/assets/images/tRoboticGamer.png?raw=true" alt="credit-tRoboticGamer" class="media-image"></img> tRoboticGamer `Sound Design` `Tilemap`</h6>
 
-<h6><img style="image-rendering: auto;" src="https://github.com/Prince527GitHub/Duck-Dungeon/blob/web/assets/images/prince.gif?raw=true" alt="credit-Prince527" class="media-image"></img> Prince527 `Web Design` `Game Design`</h6>
+<h6><img style="image-rendering: auto;	height: 25px; width: 25px;" src="https://github.com/Prince527GitHub/Duck-Dungeon/blob/web/assets/images/prince.gif?raw=true" alt="credit-Prince527"></img> Prince527 `Web Design` `Game Design`</h6>
 
 <h5>Special Thanks to <img style="image-rendering: auto;" src="assets/images/castnormal.png" alt="credit-CastNormal" class="media-image" data-bs-toggle="tooltip" data-bs-placement="top" title="CastNormal">, <img style="image-rendering: auto;" src="assets/images/wam.png" alt="credit-wam" class="media-image" data-bs-toggle="tooltip" data-bs-placement="top" title="Wam25">, <img style="image-rendering: auto;" src="assets/images/cr1ms0n.png" alt="credit-Cr1ms0n" class="media-image" data-bs-toggle="tooltip" data-bs-placement="top" title="Cr1ms0n"> and all those who were there during this process <3</h5>
 
