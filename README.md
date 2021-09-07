@@ -30,7 +30,7 @@ Duck Dungeon Reboot, or DDR for short, is a game where you play as a duck. An ev
 
 <img style="image-rendering: auto;	height: 25px; width: 25px;" src="https://github.com/Prince527GitHub/Duck-Dungeon/blob/web/assets/images/txtur.gif?raw=true" alt="credit-Txtur"></img> **txtur** `Textures` `Game Design`
 
-<img style="image-rendering: auto;	height: 25px; width: 25px;" src="https://github.com/Prince527GitHub/Duck-Dungeon/blob/web/assets/images/tRoboticGamer.png?raw=true" alt="credit-tRoboticGamer"</img> **tRoboticGamer** `Sound Design` `Tilemap`
+<img style="image-rendering: auto;	height: 25px; width: 25px;" src="https://github.com/Prince527GitHub/Duck-Dungeon/blob/web/assets/images/tRoboticGamer.png?raw=true" alt="credit-tRoboticGamer"></img> **tRoboticGamer** `Sound Design` `Tilemap`
 
 <img style="image-rendering: auto;	height: 25px; width: 25px;" src="https://github.com/Prince527GitHub/Duck-Dungeon/blob/web/assets/images/prince.gif?raw=true" alt="credit-Prince527"></img> **Prince527** `Web Design` `Game Design`
 
