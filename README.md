@@ -38,5 +38,5 @@ Duck Dungeon Reboot, or DDR for short, is a game where you play as a duck. An ev
 
 ### Links
 
-- `Github` [link](https://github.com/Prince527GitHub/Duck-Dungeon/)
-- `Website` [link](https://duckdevs.me/)
+- [`Github`](https://github.com/Prince527GitHub/Duck-Dungeon/)
+- [`Website`](https://duckdevs.me/)
