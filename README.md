@@ -18,25 +18,25 @@
  - [`Website`](https://serversmp.xyz/)
  - [`API`](https://api.serversmp.xyz/)
 
-## [DuckDungeon](https://github.com/Prince527GitHub/Duck-Dungeon/) 
+## [DuckDungeon](https://github.com/DuckDevss/Duck-Dungeon) 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Prince527Github&repo=Duck-Dungeon&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DuckDevss&repo=Duck-Dungeon&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-Duck Dungeon Reboot, or DDR for short, is a game where you play as a duck. An evil goose has stolen your bread, and you must bring it back. You will face many obstacles in your quest to bring back the holy bread.
+Duck Dungeon is a game where you play as a duck. An evil goose has stolen your bread, and you must bring it back. You will face many obstacles in your quest to bring back the holy bread.
 
 ### Credits
 
-<img style="image-rendering: auto;	height: 25px; width: 25px;" src="https://github.com/Prince527GitHub/Duck-Dungeon/blob/web/assets/images/arpi.png?raw=true" alt="credit-DiamondGolurk"></img> **DiamondGolurk** `Programming` `Game Design`
+<img width="25px" height="25px" style="image-rendering:auto" src="https://github.com/DuckDevss/Duck-Dungeon/blob/web-desktop/assets/images/arpi.png?raw=true" alt="credit-DiamondGolurk"></img> **DiamondGolurk** `Programming` `Game Design`
 
-<img style="image-rendering: auto;	height: 25px; width: 25px;" src="https://github.com/Prince527GitHub/Duck-Dungeon/blob/web/assets/images/txtur.gif?raw=true" alt="credit-Txtur"></img> **txtur** `Textures` `Game Design`
+<img width="25px" height="25px" style="image-rendering:auto" src="https://github.com/DuckDevss/Duck-Dungeon/blob/web-desktop/assets/images/txtur.gif?raw=true" alt="credit-Txtur"></img> **txtur** `Textures` `Game Design`
 
-<img style="image-rendering: auto;	height: 25px; width: 25px;" src="https://github.com/Prince527GitHub/Duck-Dungeon/blob/web/assets/images/tRoboticGamer.png?raw=true" alt="credit-tRoboticGamer"></img> **tRoboticGamer** `Sound Design` `Tilemap`
+<img width="25px" height="25px" style="image-rendering:auto" src="https://github.com/DuckDevss/Duck-Dungeon/blob/web-desktop/assets/images/tRoboticGamer.png?raw=true" alt="credit-tRoboticGamer"></img> **tRoboticGamer** `Sound Design` `Tilemap`
 
-<img style="image-rendering: auto;	height: 25px; width: 25px;" src="https://github.com/Prince527GitHub/Duck-Dungeon/blob/web/assets/images/prince.gif?raw=true" alt="credit-Prince527"></img> **Prince527** `Web Design` `Game Design`
+<img width="25px" height="25px" style="image-rendering:auto" src="https://github.com/DuckDevss/Duck-Dungeon/blob/web-desktop/assets/images/prince.gif?raw=true" alt="credit-Prince527"></img> **Prince527** `Web Design` `Game Design`
 
-<h5>Special Thanks to <img style="image-rendering: auto;	height: 25px; width: 25px;" src="https://github.com/Prince527GitHub/Duck-Dungeon/blob/web/assets/images/castnormal.png?raw=true" alt="credit-CastNormal">, <img style="image-rendering: auto;	height: 25px; width: 25px;" src="https://github.com/Prince527GitHub/Duck-Dungeon/blob/web/assets/images/wam.png">, <img style="image-rendering: auto;	height: 25px; width: 25px;" src="https://github.com/Prince527GitHub/Duck-Dungeon/blob/web/assets/images/cr1ms0n.png?raw=true" alt="credit-Cr1ms0n"> and all those who were there during this process <3</h5>
+<h5>Special Thanks to <img width="25px" height="25px" style="image-rendering:auto" src="https://github.com/DuckDevss/Duck-Dungeon/blob/web-desktop/assets/images/castnormal.png?raw=true" alt="credit-CastNormal">, <img width="25px" height="25px" style="image-rendering:auto" src="https://github.com/DuckDevss/Duck-Dungeon/blob/web-desktop/assets/images/wam.png">, <img width="25px" height="25px" style="image-rendering:auto" src="https://github.com/DuckDevss/Duck-Dungeon/blob/web-desktop/assets/images/cr1ms0n.png?raw=true" alt="credit-Cr1ms0n">, Via and all those who were there during this process <3</h5>
 
 ### Links
 
-- [`Github`](https://github.com/Prince527GitHub/Duck-Dungeon/)
-- [`Website`](https://duckdevs.me/)
+- [`Github`](https://github.com/DuckDevss/Duck-Dungeon)
+- [`Website`](https://duckdevss.github.io/Duck-Dungeon/)
