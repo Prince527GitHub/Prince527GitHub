@@ -30,21 +30,21 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ServerSMP-Github&repo=BOT&theme=onedark" width="200px" height="74.75px">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ServerSMP-Github&repo=BOT&theme=onedark" width="200px" height="104.65px">
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prince527Github&repo=App-Store&theme=onedark" width="200px" height="74.75px">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prince527Github&repo=App-Store&theme=onedark" width="200px" height="104.65px">
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prince527Github&repo=Prince527-MC-launcher&theme=onedark" width="200px" height="74.75px">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prince527Github&repo=Prince527-MC-launcher&theme=onedark" width="200px" height="104.65px">
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prince527Github&repo=Simple-Apps&theme=onedark" width="200px" height="74.75px">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prince527Github&repo=Simple-Apps&theme=onedark" width="200px" height="104.65px">
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ServerSMP-Github&repo=API-Shortener&theme=onedark" width="200px" height="74.75px">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ServerSMP-Github&repo=API-Shortener&theme=onedark" width="200px" height="104.65px">
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ServerSMP-Github&repo=Website&theme=onedark" width="200px" height="74.75px">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ServerSMP-Github&repo=Website&theme=onedark" width="200px" height="104.65px">
   </a>
 </p>
