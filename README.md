@@ -4,10 +4,6 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=Prince527Github&show_icons=true&theme=onedark" alt="Prince527Github's GitHub stats">
   </a>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prince527Github&theme=onedark&layout=compact" alt="Prince527Github's Top Langs">
-  </a>
 </p>
 
 <h2 align="center">
@@ -29,3 +25,12 @@
 <p align="center">
  <img src="https://serversmp.xyz/web/mclauncher/assets/image/main-menu.jpg" alt="mc-launcher-img">
 </p>
+
+<h2>Repos:</h2>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ServerSMP-Github&repo=BOT&theme=onedark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Prince527Github&repo=App-Store&theme=onedark" />
+</a>
