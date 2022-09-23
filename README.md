@@ -1,10 +1,10 @@
 # Prince527
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prince527Github&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prince527Github&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## [ServerSMP](https://github.com/Prince527GitHub/ServerSMP)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Prince527Github&repo=ServerSMP&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Prince527Github&repo=ServerSMP&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 **Discord bots**
  - [`ServerSMP - BOT (v13)`](https://github.com/Prince527GitHub/ServerSMP/tree/ServerSMP-BOT-(v13))
@@ -20,7 +20,7 @@
 
 ## [DuckDungeon](https://github.com/DuckDevss/Duck-Dungeon) 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DuckDevss&repo=Duck-Dungeon&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DuckDevss&repo=Duck-Dungeon&show_icons=true&theme=v)](https://github.com/anuraghazra/github-readme-stats)
 
 Duck Dungeon is a game where you play as a duck. An evil goose has stolen your bread, and you must bring it back. You will face many obstacles in your quest to bring back the holy bread.
 
