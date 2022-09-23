@@ -8,7 +8,7 @@
 
 A program to download other programs ive created.
 
-[!app-store-img](https://raw.githubusercontent.com/Prince527GitHub/App-Store/images/apps/app-store.png)
+![app-store-img](https://raw.githubusercontent.com/Prince527GitHub/App-Store/images/apps/app-store.png)
 
 ## [Prince527's MC launcher](https://github.com/Prince527GitHub/Prince527-MC-launcher) 
 
@@ -16,4 +16,4 @@ A program to download other programs ive created.
 
  A launcher for most of Prince527's MC packs and more!
  
- [!mc-launcher-img](https://serversmp.xyz/web/mclauncher/assets/image/main-menu.jpg)
+ ![mc-launcher-img](https://serversmp.xyz/web/mclauncher/assets/image/main-menu.jpg)
