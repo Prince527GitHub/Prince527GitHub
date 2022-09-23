@@ -10,12 +10,6 @@
  <a href="https://github.com/Prince527GitHub/App-Store">App Store</a>
 </h2>
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prince527Github&repo=ServerSMP&show_icons=true&theme=onedark" alt="Readme Card">
-  </a>
-</p>
-
 <p align="center">A program to download other programs ive created.</p>
 
 <p align="center">
@@ -25,12 +19,6 @@
 <h2 align="center">
  <a href="https://github.com/Prince527GitHub/Prince527-MC-launcher">Prince527's MC launcher</a>
 </h2>
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DuckDevss&repo=Duck-Dungeon&show_icons=true&theme=onedark" alt="Readme Card">
-  </a>
-</p>
 
 <p align="center">A launcher for most of Prince527's MC packs and more!</p>
  
