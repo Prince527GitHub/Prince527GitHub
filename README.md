@@ -7,7 +7,7 @@
 </p>
 
 <h2>
- <a href="https://github.com/Prince527GitHub/App-Store">App Store</a>
+ <a align="center" href="https://github.com/Prince527GitHub/App-Store">App Store</a>
 </h2>
 
 <p align="center">
@@ -23,7 +23,7 @@
 </p>
 
 <h2>
- <a href="https://github.com/Prince527GitHub/Prince527-MC-launcher">Prince527's MC launcher</a>
+ <a align="center" href="https://github.com/Prince527GitHub/Prince527-MC-launcher">Prince527's MC launcher</a>
 </h2>
 
 <p align="center">
