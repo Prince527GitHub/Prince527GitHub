@@ -29,8 +29,8 @@
 <h2>Repos:</h2>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ServerSMP-Github&repo=BOT&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ServerSMP-Github&repo=BOT&theme=onedark&hide=description" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Prince527Github&repo=App-Store&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Prince527Github&repo=App-Store&theme=onedark&hide=description" />
 </a>
