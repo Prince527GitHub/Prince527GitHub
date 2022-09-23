@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Prince527Github&show_icons=true&theme=onedark" alt="Prince527Github's GitHub stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Prince527Github&show_icons=true&theme=onedark" alt="Prince527Github's GitHub stats" width="360" height="165">
   </a>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
