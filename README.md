@@ -6,7 +6,7 @@
   </a>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prince527Github&theme=onedark&layout=compact" alt="Prince527Github's Top Langs">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prince527Github&theme=onedark&layout=compact" alt="Prince527Github's Top Langs" width="360" height="165">
   </a>
 </p>
 
