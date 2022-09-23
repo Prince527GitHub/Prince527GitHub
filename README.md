@@ -29,8 +29,20 @@
 <h2>Repos:</h2>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ServerSMP-Github&repo=BOT&theme=onedark&hide=description" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ServerSMP-Github&repo=BOT&theme=onedark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Prince527Github&repo=App-Store&theme=onedark&hide=description" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Prince527Github&repo=App-Store&theme=onedark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Prince527Github&repo=Prince527-MC-launcher&theme=onedark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Prince527Github&repo=Simple-Apps&theme=onedark" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ServerSMP-Github&repo=API-Shortener&theme=onedark" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ServerSMP-Github&repo=Website&theme=onedark" />
 </a>
