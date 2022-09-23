@@ -6,8 +6,8 @@
   </a>
 </p>
 
-<h2>
- <a align="center" href="https://github.com/Prince527GitHub/App-Store">App Store</a>
+<h2 align="center">
+ <a href="https://github.com/Prince527GitHub/App-Store">App Store</a>
 </h2>
 
 <p align="center">
@@ -22,8 +22,8 @@
  <img src="https://raw.githubusercontent.com/Prince527GitHub/App-Store/images/apps/app-store.png" alt="app-store-img">
 </p>
 
-<h2>
- <a align="center" href="https://github.com/Prince527GitHub/Prince527-MC-launcher">Prince527's MC launcher</a>
+<h2 align="center">
+ <a href="https://github.com/Prince527GitHub/Prince527-MC-launcher">Prince527's MC launcher</a>
 </h2>
 
 <p align="center">
