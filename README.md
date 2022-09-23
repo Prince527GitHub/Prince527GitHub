@@ -2,7 +2,11 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Prince527Github&show_icons=true&theme=onedark" alt="Anurag's GitHub stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Prince527Github&show_icons=true&theme=onedark" alt="Prince527Github's GitHub stats">
+  </a>
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prince527Github&theme=onedark" alt="Prince527Github's Top Langs">
   </a>
 </p>
 
