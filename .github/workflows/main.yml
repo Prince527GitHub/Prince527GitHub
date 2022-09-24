@@ -24,5 +24,39 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_languages: yes
-          plugin_languages_limit: 4
-
+  featured-repositories:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.repositories.pinned.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_repositories: yes
+          plugin_repositories_pinned: 6
+  serversmp-introduction:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.serversmp.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: ServerSMP-Github
+          base: header
+          plugin_introduction: yes
+  duckdevss-introduction:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.serversmp.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: DuckDevss
+          base: header
+          plugin_introduction: yes
