@@ -23,7 +23,7 @@
 <p align="center">A launcher for most of Prince527's MC packs and more!</p>
  
 <p align="center">
- <img src="https://serversmp.xyz/web/mclauncher/assets/image/main-menu.jpg" alt="mc-launcher-img">
+ <img src="https://prince527github.github.io/Prince527-MC-launcher/assets/img/main-menu.jpg" alt="mc-launcher-img">
 </p>
 
 <h2 align="center">Repos:</h2>
