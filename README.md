@@ -1,16 +1,12 @@
 <h1 align="center">Prince527</h1>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prince527Github&theme=github_dark" alt="Prince527Github's GitHub stats">
-  </a>
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prince527Github&theme=github_dark" alt="profile-card">
 </p>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Prince527Github&theme=github_dark" alt="Prince527Github's GitHub stats">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Prince527Github&theme=github_dark" alt="Prince527Github's GitHub stats">
-  </a>
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Prince527Github&theme=github_dark" alt="profile-stats">
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Prince527Github&theme=github_dark" alt="commit-languages">
 </p>
 
 <h2 align="center">
