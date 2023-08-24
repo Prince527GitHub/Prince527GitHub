@@ -6,6 +6,13 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Prince527Github&theme=github_dark" alt="Prince527Github's GitHub stats">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Prince527Github&theme=github_dark" alt="Prince527Github's GitHub stats">
+  </a>
+</p>
+
 <h2 align="center">
  <a href="https://github.com/Prince527GitHub/App-Store">App Store</a>
 </h2>
