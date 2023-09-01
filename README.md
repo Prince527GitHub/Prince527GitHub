@@ -1,12 +1,12 @@
 <h1 align="center">Prince527</h1>
 
 <p align="center">
- <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prince527Github&theme=github_dark" alt="profile-card">
+ <img src="https://raw.githubusercontent.com/Prince527GitHub/Prince527GitHub/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="profile-card">
 </p>
 
 <p align="center">
- <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Prince527Github&theme=github_dark" alt="profile-stats">
- <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Prince527Github&theme=github_dark" alt="commit-languages">
+ <img src="https://raw.githubusercontent.com/Prince527GitHub/Prince527GitHub/main/profile-summary-card-output/github_dark/3-stats.svg" alt="profile-stats">
+ <img src="https://raw.githubusercontent.com/Prince527GitHub/Prince527GitHub/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="commit-languages">
 </p>
 
 <h2 align="center">
