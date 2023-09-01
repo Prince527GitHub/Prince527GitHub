@@ -10,21 +10,21 @@
 </p>
 
 <h2 align="center">
- <a href="https://github.com/Prince527GitHub/App-Store">App Store</a>
+ <a href="https://github.com/ServerSMP-Github">ServerSMP</a>
 </h2>
 
-<p align="center">A program to download other programs ive created.</p>
+<p align="center">An organization that includes the 'major' projects I am actively working on.</p>
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/Prince527GitHub/App-Store/images/apps/app-store.png" alt="app-store-img">
+ <img src="https://raw.githubusercontent.com/ServerSMP-Github/.github/main/github-metrics.svg" alt="serversmp" width="600">
 </p>
 
 <h2 align="center">
- <a href="https://github.com/Prince527GitHub/Prince527-MC-launcher">Prince527's MC launcher</a>
+ <a href="https://github.com/ForkPrince">ForkPrince</a>
 </h2>
 
-<p align="center">A launcher for most of Prince527's MC packs and more!</p>
+<p align="center">An organization that contains every project I have forked.</p>
  
 <p align="center">
- <img src="https://prince527github.github.io/Prince527-MC-launcher/assets/img/main-menu.jpg" alt="mc-launcher-img">
+ <img src="https://raw.githubusercontent.com/ForkPrince/.github/main/github-metrics.svg" alt="forkprince" width="600">
 </p>
