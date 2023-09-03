@@ -23,7 +23,7 @@
  <a href="https://github.com/ForkPrince">ForkPrince</a>
 </h2>
 
-<p align="center">An organization that contains every project I have forked.</p>
+<p align="center">An organization that mainly contains every project I have forked.</p>
  
 <p align="center">
  <img src="https://raw.githubusercontent.com/ForkPrince/.github/main/github-metrics.svg" alt="forkprince" width="600">
