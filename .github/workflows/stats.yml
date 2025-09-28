@@ -1,22 +1,31 @@
 name: Profile Stats
 
 on:
-  create:
-  push:
   schedule:
     - cron: "* */24 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: generate-github-cards
-    permissions:
-      contents: write
       
     steps:
-      - uses: actions/checkout@v2
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
+      - name: Checkout Repo
+        uses: actions/checkout@v5
+
+      - name: Generate Snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            snake/github-contribution-grid-snake.svg
+            snake/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Generate Stats
+        uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
