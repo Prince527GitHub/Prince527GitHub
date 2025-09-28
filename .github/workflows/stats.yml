@@ -24,6 +24,9 @@ jobs:
             snake/github-contribution-grid-snake.svg
             snake/github-contribution-grid-snake-dark.svg?palette=github-dark
 
+      - name: Add changes
+        run: git add -A
+
       - name: Generate Stats
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
