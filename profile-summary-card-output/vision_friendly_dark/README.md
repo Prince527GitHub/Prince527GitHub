@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/Prince527GitHub/Prince527GitHub/main/profile-summary-card-output/vision_friendly_dark/4-productive-time.svg)
+```
+
+    
